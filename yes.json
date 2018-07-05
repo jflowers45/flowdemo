@@ -1,3 +1,8 @@
 {
-   answer: "yes"
+   answer: "yes",
+   contact: {
+      firstName: "John",
+      lastName: "Doe",
+      profession: "Detective"
+   }
 }
