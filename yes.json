@@ -1,8 +1,8 @@
 {
-   answer: "yes",
-   contact: {
-      firstName: "John",
-      lastName: "Doe",
-      profession: "Detective"
+   "answer": "yes",
+   "contact": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "profession": "Detective"
    }
 }
